@@ -1,0 +1,532 @@
+{
+  "matches": [
+    {
+      "id": "match-001",
+      "status": "live",
+      "competition": "Premier League",
+      "season": "2024/25",
+      "round": "Matchday 12",
+      "date": "2025-10-23",
+      "kickoffTime": "15:00",
+      "currentMinute": 67,
+      "stadium": "Old Trafford",
+      "city": "Manchester",
+      "attendance": 74879,
+      "referee": "Michael Oliver",
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temperature": "14°C"
+      },
+      "homeTeam": {
+        "id": "team-001",
+        "name": "Manchester United",
+        "shortName": "MUN",
+        "logo": "https://media.api-sports.io/football/teams/33.png",
+        "coach": "Erik ten Hag"
+      },
+      "awayTeam": {
+        "id": "team-002",
+        "name": "Liverpool",
+        "shortName": "LIV",
+        "logo": "https://media.api-sports.io/football/teams/40.png",
+        "coach": "Jürgen Klopp"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "halfTime": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "events": [
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Marcus Rashford",
+          "minute": 23
+        },
+        {
+          "type": "goal",
+          "team": "away",
+          "player": "Mohamed Salah",
+          "minute": 35
+        },
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Bruno Fernandes",
+          "minute": 52
+        },
+        {
+          "type": "goal",
+          "team": "away",
+          "player": "Darwin Núñez",
+          "minute": 61
+        }
+      ]
+    },
+    {
+      "id": "match-002",
+      "status": "finished",
+      "competition": "Premier League",
+      "season": "2024/25",
+      "round": "Matchday 12",
+      "date": "2025-10-23",
+      "kickoffTime": "12:30",
+      "stadium": "Emirates Stadium",
+      "city": "London",
+      "attendance": 60704,
+      "referee": "Anthony Taylor",
+      "weather": {
+        "condition": "Sunny",
+        "temperature": "16°C"
+      },
+      "homeTeam": {
+        "id": "team-003",
+        "name": "Arsenal",
+        "shortName": "ARS",
+        "logo": "https://media.api-sports.io/football/teams/42.png",
+        "coach": "Mikel Arteta"
+      },
+      "awayTeam": {
+        "id": "team-004",
+        "name": "Chelsea",
+        "shortName": "CHE",
+        "logo": "https://media.api-sports.io/football/teams/49.png",
+        "coach": "Mauricio Pochettino"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "halfTime": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "events": [
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Bukayo Saka",
+          "minute": 18
+        },
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Gabriel Jesus",
+          "minute": 33
+        },
+        {
+          "type": "goal",
+          "team": "away",
+          "player": "Raheem Sterling",
+          "minute": 58
+        },
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Martin Ødegaard",
+          "minute": 75
+        }
+      ]
+    },
+    {
+      "id": "match-003",
+      "status": "upcoming",
+      "competition": "Premier League",
+      "season": "2024/25",
+      "round": "Matchday 12",
+      "date": "2025-10-23",
+      "kickoffTime": "17:30",
+      "stadium": "Etihad Stadium",
+      "city": "Manchester",
+      "attendance": null,
+      "referee": "Simon Hooper",
+      "weather": {
+        "condition": "Cloudy",
+        "temperature": "13°C"
+      },
+      "homeTeam": {
+        "id": "team-005",
+        "name": "Manchester City",
+        "shortName": "MCI",
+        "logo": "https://media.api-sports.io/football/teams/50.png",
+        "coach": "Pep Guardiola"
+      },
+      "awayTeam": {
+        "id": "team-006",
+        "name": "Tottenham Hotspur",
+        "shortName": "TOT",
+        "logo": "https://media.api-sports.io/football/teams/47.png",
+        "coach": "Ange Postecoglou"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTime": null
+      },
+      "events": []
+    },
+    {
+      "id": "match-004",
+      "status": "finished",
+      "competition": "La Liga",
+      "season": "2024/25",
+      "round": "Matchday 11",
+      "date": "2025-10-22",
+      "kickoffTime": "21:00",
+      "stadium": "Santiago Bernabéu",
+      "city": "Madrid",
+      "attendance": 78946,
+      "referee": "José María Sánchez",
+      "weather": {
+        "condition": "Clear",
+        "temperature": "18°C"
+      },
+      "homeTeam": {
+        "id": "team-007",
+        "name": "Real Madrid",
+        "shortName": "RMA",
+        "logo": "https://media.api-sports.io/football/teams/541.png",
+        "coach": "Carlo Ancelotti"
+      },
+      "awayTeam": {
+        "id": "team-008",
+        "name": "FC Barcelona",
+        "shortName": "BAR",
+        "logo": "https://media.api-sports.io/football/teams/529.png",
+        "coach": "Xavi Hernández"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "halfTime": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "events": [
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Vinícius Júnior",
+          "minute": 12
+        },
+        {
+          "type": "goal",
+          "team": "away",
+          "player": "Robert Lewandowski",
+          "minute": 28
+        },
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Jude Bellingham",
+          "minute": 83
+        }
+      ]
+    },
+    {
+      "id": "match-005",
+      "status": "upcoming",
+      "competition": "Serie A",
+      "season": "2024/25",
+      "round": "Matchday 10",
+      "date": "2025-10-24",
+      "kickoffTime": "20:45",
+      "stadium": "San Siro",
+      "city": "Milan",
+      "attendance": null,
+      "referee": "Daniele Orsato",
+      "weather": {
+        "condition": "Rain Expected",
+        "temperature": "12°C"
+      },
+      "homeTeam": {
+        "id": "team-009",
+        "name": "Inter Milan",
+        "shortName": "INT",
+        "logo": "https://media.api-sports.io/football/teams/505.png",
+        "coach": "Simone Inzaghi"
+      },
+      "awayTeam": {
+        "id": "team-010",
+        "name": "AC Milan",
+        "shortName": "ACM",
+        "logo": "https://media.api-sports.io/football/teams/489.png",
+        "coach": "Stefano Pioli"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTime": null
+      },
+      "events": []
+    },
+    {
+      "id": "match-006",
+      "status": "finished",
+      "competition": "Bundesliga",
+      "season": "2024/25",
+      "round": "Matchday 9",
+      "date": "2025-10-22",
+      "kickoffTime": "18:30",
+      "stadium": "Allianz Arena",
+      "city": "Munich",
+      "attendance": 75000,
+      "referee": "Felix Brych",
+      "weather": {
+        "condition": "Overcast",
+        "temperature": "10°C"
+      },
+      "homeTeam": {
+        "id": "team-011",
+        "name": "Bayern Munich",
+        "shortName": "BAY",
+        "logo": "https://media.api-sports.io/football/teams/157.png",
+        "coach": "Thomas Tuchel"
+      },
+      "awayTeam": {
+        "id": "team-012",
+        "name": "Borussia Dortmund",
+        "shortName": "BVB",
+        "logo": "https://media.api-sports.io/football/teams/165.png",
+        "coach": "Edin Terzić"
+      },
+      "score": {
+        "home": 4,
+        "away": 2,
+        "halfTime": {
+          "home": 2,
+          "away": 1
+        }
+      },
+      "events": [
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Harry Kane",
+          "minute": 15
+        },
+        {
+          "type": "goal",
+          "team": "away",
+          "player": "Karim Adeyemi",
+          "minute": 22
+        },
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Jamal Musiala",
+          "minute": 38
+        },
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Harry Kane",
+          "minute": 56
+        },
+        {
+          "type": "goal",
+          "team": "away",
+          "player": "Niclas Füllkrug",
+          "minute": 70
+        },
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Leroy Sané",
+          "minute": 88
+        }
+      ]
+    },
+    {
+      "id": "match-007",
+      "status": "upcoming",
+      "competition": "Ligue 1",
+      "season": "2024/25",
+      "round": "Matchday 11",
+      "date": "2025-10-24",
+      "kickoffTime": "20:00",
+      "stadium": "Parc des Princes",
+      "city": "Paris",
+      "attendance": null,
+      "referee": "Clément Turpin",
+      "weather": {
+        "condition": "Clear",
+        "temperature": "15°C"
+      },
+      "homeTeam": {
+        "id": "team-013",
+        "name": "Paris Saint-Germain",
+        "shortName": "PSG",
+        "logo": "https://media.api-sports.io/football/teams/85.png",
+        "coach": "Luis Enrique"
+      },
+      "awayTeam": {
+        "id": "team-014",
+        "name": "Olympique Marseille",
+        "shortName": "OGM",
+        "logo": "https://media.api-sports.io/football/teams/81.png",
+        "coach": "Jean-Louis Gasset"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTime": null
+      },
+      "events": []
+    },
+    {
+      "id": "match-008",
+      "status": "finished",
+      "competition": "Premier League",
+      "season": "2024/25",
+      "round": "Matchday 11",
+      "date": "2025-10-21",
+      "kickoffTime": "14:00",
+      "stadium": "Anfield",
+      "city": "Liverpool",
+      "attendance": 53394,
+      "referee": "Paul Tierney",
+      "weather": {
+        "condition": "Light Rain",
+        "temperature": "11°C"
+      },
+      "homeTeam": {
+        "id": "team-002",
+        "name": "Liverpool",
+        "shortName": "LIV",
+        "logo": "https://media.api-sports.io/football/teams/40.png",
+        "coach": "Jürgen Klopp"
+      },
+      "awayTeam": {
+        "id": "team-015",
+        "name": "Newcastle United",
+        "shortName": "NEW",
+        "logo": "https://media.api-sports.io/football/teams/34.png",
+        "coach": "Eddie Howe"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "events": [
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Luis Díaz",
+          "minute": 31
+        },
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Cody Gakpo",
+          "minute": 68
+        }
+      ]
+    },
+    {
+      "id": "match-009",
+      "status": "finished",
+      "competition": "Serie A",
+      "season": "2024/25",
+      "round": "Matchday 9",
+      "date": "2025-10-21",
+      "kickoffTime": "18:00",
+      "stadium": "Allianz Stadium",
+      "city": "Turin",
+      "attendance": 41507,
+      "referee": "Maurizio Mariani",
+      "weather": {
+        "condition": "Sunny",
+        "temperature": "17°C"
+      },
+      "homeTeam": {
+        "id": "team-016",
+        "name": "Juventus",
+        "shortName": "JUV",
+        "logo": "https://media.api-sports.io/football/teams/496.png",
+        "coach": "Massimiliano Allegri"
+      },
+      "awayTeam": {
+        "id": "team-017",
+        "name": "AS Roma",
+        "shortName": "ROM",
+        "logo": "https://media.api-sports.io/football/teams/497.png",
+        "coach": "José Mourinho"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "events": [
+        {
+          "type": "goal",
+          "team": "away",
+          "player": "Paulo Dybala",
+          "minute": 42
+        },
+        {
+          "type": "goal",
+          "team": "home",
+          "player": "Dušan Vlahović",
+          "minute": 77
+        }
+      ]
+    },
+    {
+      "id": "match-010",
+      "status": "upcoming",
+      "competition": "La Liga",
+      "season": "2024/25",
+      "round": "Matchday 12",
+      "date": "2025-10-25",
+      "kickoffTime": "21:00",
+      "stadium": "Wanda Metropolitano",
+      "city": "Madrid",
+      "attendance": null,
+      "referee": "Ricardo de Burgos",
+      "weather": {
+        "condition": "Clear",
+        "temperature": "16°C"
+      },
+      "homeTeam": {
+        "id": "team-018",
+        "name": "Atlético Madrid",
+        "shortName": "ATM",
+        "logo": "https://media.api-sports.io/football/teams/530.png",
+        "coach": "Diego Simeone"
+      },
+      "awayTeam": {
+        "id": "team-019",
+        "name": "Sevilla FC",
+        "shortName": "SEV",
+        "logo": "https://media.api-sports.io/football/teams/536.png",
+        "coach": "Quique Sánchez Flores"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTime": null
+      },
+      "events": []
+    }
+  ],
+  "metadata": {
+    "totalMatches": 10,
+    "liveMatches": 1,
+    "upcomingMatches": 4,
+    "finishedMatches": 5,
+    "lastUpdated": "2025-10-23T15:67:00Z"
+  }
+}
