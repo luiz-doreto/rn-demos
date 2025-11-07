@@ -6,9 +6,19 @@ import {
 } from 'expo-glass-effect';
 import { MeshGradientView } from 'expo-mesh-gradient';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { ExtensionStorage } from '@bacons/apple-targets';
+import { useEffect } from 'react';
+
+const widgetStorage = new ExtensionStorage('group.com.doretoluiz.widget.data');
 
 const Favorites = () => {
   const liquidGlassAvailable = isLiquidGlassAvailable();
+
+  useEffect(() => {
+    widgetStorage.set('title', 'Luiz Doreto');
+    widgetStorage.set('description', 'SwiftUI • React Native');
+    ExtensionStorage.reloadWidget();
+  }, []);
 
   return (
     <SafeAreaView edges={['top']} style={styles.container}>
